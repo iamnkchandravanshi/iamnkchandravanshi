@@ -16,5 +16,5 @@ I'm expanding my knowledge in cloud technologies, specifically AWS, to better un
 
 I'm always open to collaborating on interesting projects, especially those related to web development, AI/ML, or data science.
 
-* **How to reach me:** You can find me on [LinkedIn](www.linkedin.com/in/neel-kumar-chandravanshi-2a3157326) or contact me via email at [your-email@example.com](chandravanshineel2803@gmail.com).
+* **How to reach me:** You can find me on www.linkedin.com/in/neel-kumar-chandravanshi-2a3157326 or contact me via email at chandravanshineel2803@gmail.com.
 * **Fun fact:** I'm a huge fan of vintage video games like Super Mario and WWE Raw vs Smack Down.
